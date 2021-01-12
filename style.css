@@ -1,6 +1,10 @@
 body{
     font-family: sans-serif;
-    padding: 8rem;
+}
+
+#main{
+    padding: 4rem;
+    margin: 2rem;
     background-color: rgb(240, 240, 240);
 }
 
